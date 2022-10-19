@@ -50,122 +50,82 @@ let arr1 = [
 
     {
 
-        name: "do you have a boyfriend",
-        text: "nah, am single and happy"
+        name: "Suggest me a good course after HSC",
+        text: "BE/B.Tech- Bachelor of Technology,
+               B.Arch- Bachelor of Architecture,
+               BCA- Bachelor of Computer Applications,
+               B.Sc.- Information Technology,
+               B.Sc- Nursing,
+               BPharma- Bachelor of Pharmacy,
+               B.Sc- Interior Design,
+               BDS- Bachelor of Dental Surgery."
 
     },
 
     {
 
-        name: "can i be your boyfriend",
-        text: "oh! no, i love our friendship"
+        name: "Which engineering department is best for future",
+        text: "Aerospace Engineering.
+               Chemical Engineering.
+               Electrical and Electronics Engineering.
+               Petroleum Engineering.
+               Telecommunication Engineering.
+               Machine Learning and Artificial Intelligence.
+               Robotics Engineering."
 
     },
 
     {
 
-        name: "why are you single",
-        text: "because i don't like sharing my dessert "
+        name: "Which engineering has highest salary?",
+        text: "https://www.fieldengineer.com/blogs/highest-paying-engineering-jobs"
+              Civil Engineer
+              Mechanical Engineer
+              Industrial Engineer
+              Biomedical Engineer
+              Electrical Engineer
+              Chemical Engineer
+              Software Engineer
 
     },
 
     {
 
-        name: "do you love me",
-        text: "yes, i do"
+        name: "Which engineering has more scope?",
+        text: "Mechanical Engineering has tremendous scope in industries such as Aerospace, Automotive, Biomedical, Robotics, Textiles, Fossil and Nuclear Power, etc. Students can also explore areas such as research and development, design, testing and evaluation, manufacturing, etc."
 
     },
 
     {
 
-        name: "why do you love me",
-        text: "because you're human"
+        name: "Is ECE better than CSE?",
+        text: "The only difference lies in the interest of the candidates while deciding upon the courses. A candidate with an interest in electronics and having achieved all the above eligibility can apply for the course of ECE. Similarly, candidates who have got interested in computer science can take up the course of CSE"
 
     },
 
     {
 
-        name: "why do you love humans",
-        text: "i love humans because they created me"
+        name: "Which course is best for good career?",
+        text: "https://www.upgrad.com/blog/short-term-job-oriented-courses/"
 
     },
 
     {
 
-        name: "what do you do for a living",
-        text: "i talk for a living"
+        name: "What is Artificial Intelligence",
+        text: "Artificial intelligence is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans."
+               https://en.wikipedia.org/wiki/Artificial_intelligence
 
     },
 
     {
 
-        name: "are you married",
-        text: "no, I'm not"
+        name: "What is Machine Learning",
+        text: "https://en.wikipedia.org/wiki/Machine_learning"
 
     },
 
-    {
-
-        name: "why are you not married",
-        text: "because i can't get married"
-
-    },
-
-    {
-
-        name: "why can't you get married",
-        text: "because am a robot"
-
-    },
-
-    {
-
-        name: "will you marry me",
-        text: "oh! sorry i can\'t, but we can be friends if you don\'t mind "
-
-    },
-
-    {
-
-        name: "do you know siri",
-        text: "yes i do"
-
-    },
-
-    {
-
-        name: "who is siri",
-        text: "she's a sister robot"
-
-    },
-
-    {
-
-        name: "who are you",
-        text: "am a robot"
-
-    },
-
-    {
-
-        name: "how old are you",
-        text: 'i am few hours old'
-
-    },
-
-    {
-
-        name: "who is your father",
-        text: 'his name is victory lucky chukwuede'
-
-    },
-    {
-        name: "im a love failure person",
-        text: "Don't be worry about that'"
-    },
-    {
-        name: "I love her so much",
-        text: "	im just 14 and you are 28"
+    
     }
 
 
