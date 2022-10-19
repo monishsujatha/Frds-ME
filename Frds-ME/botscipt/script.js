@@ -50,78 +50,99 @@ let arr1 = [
 
     {
 
-        name: "do you have a boyfriend",
-        text: "nah, am single and happy"
+        name: "suggest me a good course after HSC"
+        text: "BE/B.Tech- Bachelor of Technology,
+               B.Arch- Bachelor of Architecture,
+               BCA- Bachelor of Computer Applications,
+               B.Sc.- Information Technology,
+               B.Sc- Nursing,
+               BPharma- Bachelor of Pharmacy,
+               B.Sc- Interior Design,
+               BDS- Bachelor of Dental Surgery."
 
     },
 
     {
 
-        name: "can i be your boyfriend",
-        text: "oh! no, i love our friendship"
+        name: "Which engineering branch is best for future",
+        text: "Computer Science and Engineering.
+               Mechanical Engineering.
+               Electrical Engineering.
+               Solar Engineering.
+               Wind Energy Engineering.
+               Nanotechnology.
+               Environmental Engineering."
 
     },
 
     {
 
-        name: "why are you single",
-        text: "because i don't like sharing my dessert "
+        name: "which engineering has highest salary",
+        text: "https://www.fieldengineer.com/blogs/highest-paying-engineering-jobs"
+        text: Civil Engineer
+              Mechanical Engineer
+              Industrial Engineer
+              Biomedical Engineer
+              Electrical Engineer
+              Chemical Engineer
+              Software Engineer
+              Computer Engineer
 
     },
 
     {
 
-        name: "do you love me",
-        text: "yes, i do"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "why do you love me",
-        text: "because you're human"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "why do you love humans",
-        text: "i love humans because they created me"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "what do you do for a living",
-        text: "i talk for a living"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "are you married",
-        text: "no, I'm not"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "why are you not married",
-        text: "because i can't get married"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "why can't you get married",
-        text: "because am a robot"
+        name: "",
+        text: ""
 
     },
 
     {
 
-        name: "will you marry me",
-        text: "oh! sorry i can\'t, but we can be friends if you don\'t mind "
+        name: "",
+        text: ""
 
     },
 
